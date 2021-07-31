@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC29C7EE26B5D3E400B26736 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC29C7ED26B5D3E400B26736 /* Card.swift */; };
+		AC29C7F026B5D40400B26736 /* ConcentrationGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC29C7EF26B5D40400B26736 /* ConcentrationGame.swift */; };
 		ACBA584226AD6BCD00C4C2EF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA584126AD6BCD00C4C2EF /* AppDelegate.swift */; };
 		ACBA584426AD6BCD00C4C2EF /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA584326AD6BCD00C4C2EF /* SceneDelegate.swift */; };
 		ACBA584626AD6BCD00C4C2EF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACBA584526AD6BCD00C4C2EF /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		AC29C7ED26B5D3E400B26736 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
+		AC29C7EF26B5D40400B26736 /* ConcentrationGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConcentrationGame.swift; sourceTree = "<group>"; };
 		ACBA583E26AD6BCD00C4C2EF /* Concentration.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Concentration.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACBA584126AD6BCD00C4C2EF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACBA584326AD6BCD00C4C2EF /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +44,8 @@
 		ACBA583526AD6BCD00C4C2EF = {
 			isa = PBXGroup;
 			children = (
+				AC29C7ED26B5D3E400B26736 /* Card.swift */,
+				AC29C7EF26B5D40400B26736 /* ConcentrationGame.swift */,
 				ACBA584026AD6BCD00C4C2EF /* Concentration */,
 				ACBA583F26AD6BCD00C4C2EF /* Products */,
 			);
@@ -139,7 +145,9 @@
 			files = (
 				ACBA584626AD6BCD00C4C2EF /* ViewController.swift in Sources */,
 				ACBA584226AD6BCD00C4C2EF /* AppDelegate.swift in Sources */,
+				AC29C7F026B5D40400B26736 /* ConcentrationGame.swift in Sources */,
 				ACBA584426AD6BCD00C4C2EF /* SceneDelegate.swift in Sources */,
+				AC29C7EE26B5D3E400B26736 /* Card.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
