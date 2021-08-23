@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         }
     }
     
-    var emojiCollection = ["🦊","🐰","🦋","🐔","🦊","🐰","🦋","🐔"]
+    var emojiCollection = ["🦊","🐰","🦋","🐔","🐹","🦎","🐠","🐷"]
     
     var emojiDictionary = [Int:String]()
     
